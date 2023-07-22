@@ -89,6 +89,19 @@ main #img-github {
     transition-duration: 0.5s;
 }
 
+main #img-linkdin {
+    margin-bottom: 30px;
+    padding: 10px 20px;
+    margin-left: 40px;
+    border: solid purple;
+    border-radius: 30px;
+    transition-duration: 0.5s;
+}
+
+main #img-linkdin:hover {
+    background-color: purple;
+}
+
 main #img-github:hover {
     background-color: purple;
 }
@@ -99,6 +112,7 @@ main #img-github:hover {
     left: 100px;
     bottom: 100px;
 }
+
 
 #contato {
     display: block;
