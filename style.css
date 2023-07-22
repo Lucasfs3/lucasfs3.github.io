@@ -107,10 +107,12 @@ main #img-github:hover {
 }
 
 #img-developer {
+    display: block;
     position: relative;
-    max-width: 300px;
-    left: 100px;
+    max-width: 200px;
     bottom: 100px;
+    float: right;
+    
 }
 
 
