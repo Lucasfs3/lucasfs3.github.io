@@ -101,10 +101,12 @@ main #img-linkdin {
 
 main #img-linkdin:hover {
     background-color: purple;
+    box-shadow: 0px 0px 20px 8px purple;
 }
 
 main #img-github:hover {
     background-color: purple;
+    box-shadow: 0px 0px 20px 8px purple;
 }
 
 #img-developer {
@@ -131,6 +133,7 @@ main #img-github:hover {
 
 #contato:hover {
     background-color: purple;
+    box-shadow: 0px 0px 20px 8px purple;
 }
 
 .h1-center {
@@ -178,6 +181,7 @@ main #img-github:hover {
 
 #projeto-login > a:hover {
     background-color: purple;
+    box-shadow: 0px 0px 20px 8px purple;
 }
 
 .minhas-habilidades {
